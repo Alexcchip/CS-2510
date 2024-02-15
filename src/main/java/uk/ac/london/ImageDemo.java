@@ -1,4 +1,4 @@
-package uk.ac.nulondon;
+package xuk.ac.london;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
