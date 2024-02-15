@@ -1,7 +1,0 @@
-# uk.ac.london:Project_1
-
-Write your project description here...
-
-Java version 21
-
-Generated at 2024-02-13 13:33:36
