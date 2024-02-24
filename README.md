@@ -1,7 +1,3 @@
-# uk.ac.london:Project_1
+# CS 2510 Project 1
 
-Write your project description here...
-
-Java version 21
-
-Generated at 2024-02-13 13:33:36
+This project utilizes various packages from the Java Abstract Window Toolkit to implement a version of the content-aware image resizing algorithm known as "seam carving."
